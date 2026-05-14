@@ -1,2 +1,0 @@
-# college-project-
-using python
